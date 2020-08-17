@@ -1,0 +1,29 @@
+---
+title: "HW1"
+author: ""
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# HW1
+
+The purpose of this homework is to make sure that you have all of the proper technology tools installed. 
+
+Answer Q1 using a .RMD file. Then upload that source file and a PDF output file to Github for your submission.
+
+### Q1. 
+
+Download a .CSV file containing up to date information about COVID-19 cases. A file from August 16th can be downloaded can be at https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports_us/08-16-2020.csv.
+
+
+### a. (4 points)
+Use `dplyr` and a `group_by()` statement to summarize the data in some fashion.
+
+### b. (4 points)
+Use `ggplot2` to create a figure of the data
+
+### Q2. (2 points)
+
+Make at least one post on the Microsoft Teams app. This could be creating a new channel, adding a comment, etc..
