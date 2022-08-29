@@ -15,7 +15,7 @@ Answer Q1 using a .RMD file. Then upload that source file and a PDF output file 
 
 ### Q1. 
 
-Download a .CSV file containing up to date information about COVID-19 cases. A file from August 16th can be downloaded can be at https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports_us/08-16-2020.csv.
+Download a .CSV file containing up to date information about COVID-19 cases. A file from August 16th (2021) can be downloaded can be at https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports_us/08-16-2021.csv
 
 
 ### a. (4 points)
